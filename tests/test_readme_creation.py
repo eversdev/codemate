@@ -13,10 +13,3 @@ def test_readme_creation(mock_obj):
 def test_file_creation(tmp_path):
     file = create_readme(tmp_path)
     assert file.exists()
-
-
-
-
-
-
-

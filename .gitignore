@@ -6,6 +6,6 @@
 __pycache__/
 *.pyc
 .DS_store
-*current_notes_on_project
+
 
 
