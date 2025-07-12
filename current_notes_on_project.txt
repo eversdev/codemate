@@ -1,0 +1,11 @@
+Your CLI will act like a “scaffolding tool” — automating the setup of a project by creating files 
+like README.md, .gitignore, requirements.txt, folders like src/ and tests/, 
+and optionally setting up a virtual environment.
+
+Under the hood, you’ll write Python scripts that do this file and folder creation,
+ string formatting, and organize everything into functions and modules.
+
+You’ll use argparse to handle the command-line interface, so users can run commands
+ with options to customize the scaffolding.
+
+
