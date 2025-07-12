@@ -3,7 +3,7 @@
 *JOURNAL.md 
 *current_notes_on 
 *venv/ 
-__pycache__/
+*__pycache__/
 *.pyc
 .DS_store
 
